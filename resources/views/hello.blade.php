@@ -8,6 +8,7 @@
     <h1>Hallo Apa Kabar ?</h1>
     <p>Hallo Apa Kabar ? Hallo Apa Kabar ?</p>
     <b>Hallo Apa Kabar ?</b>
+    <b>Hallo Apa Kabar ?</b>
     <br />
 
     [ <a href="https://www.its.ac.id/">Web ITS</a> ] - [
