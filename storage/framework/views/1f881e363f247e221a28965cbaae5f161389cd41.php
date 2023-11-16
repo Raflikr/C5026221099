@@ -9,6 +9,7 @@
 	<p>Seri Tutorial Laravel Lengkap Dari Dasar</p>
 	<p>Ini adalah view blog. ada di route blog.</p>
 
+    <a href="showjam/<?php echo e(date('G:i:s')); ?>">Klik Disini</a>
 </body>
 </html>
 <?php /**PATH C:\xampp\htdocs\C5026221099\resources\views/blog.blade.php ENDPATH**/ ?>
