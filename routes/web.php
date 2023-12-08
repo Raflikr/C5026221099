@@ -117,3 +117,16 @@ Route::get('/keranjangbelanja','App\Http\Controllers\KeranjangController@index3'
 Route::get('/keranjangbelanja/beli','App\Http\Controllers\KeranjangController@beli');
 Route::post('/keranjangbelanja/store','App\Http\Controllers\KeranjangController@store');
 Route::get('/keranjangbelanja/hapus/{id}','App\Http\Controllers\KeranjangController@hapus');
+
+//route CRUD Tugas Database Kopi
+Route::get('/kopi','App\Http\Controllers\KopiController@indexkopi');
+Route::get('/kopi/tambahkopi','App\Http\Controllers\KopiController@tambahkopi');
+Route::post('/kopi/store','App\Http\Controllers\KopiController@store');
+Route::get('/kopi/editkopi/{id}','App\Http\Controllers\KopiController@editkopi');
+Route::post('/kopi/update','App\Http\Controllers\KopiController@update');
+Route::get('/kopi/hapus/{id}','App\Http\Controllers\KopiController@hapus');
+Route::get('/kopi/cari','App\Http\Controllers\KopiController@cari');
+Route::get('/kopi/viewkopi/{id}', 'App\Http\Controllers\KopiController@viewkopi');
+
+
+
