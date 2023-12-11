@@ -12,15 +12,15 @@
 <body>
     <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
         <!-- Brand -->
-        <a class="navbar-brand" href="#">5026221099 Muhammad Rafli Krishnadanu Putra Wardana</a>
+        <a class="navbar-brand" href="/#">5026221099 Muhammad Rafli Krishnadanu Putra Wardana</a>
 
         <!-- Links -->
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link" href="#">Link 1</a>
+            <a class="nav-link" href="/#">Link 1</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Link 2</a>
+            <a class="nav-link" href="/#">Link 2</a>
           </li>
 
           <!-- Dropdown -->
@@ -33,7 +33,7 @@
               <a class="dropdown-item" href="/nilaikuliah">Nilai Kuliah</a>
               <a class="dropdown-item" href="/keranjangbelanja">Keranjang Belanja</a>
               <a class="dropdown-item" href="/kopi">Tugas Kopi</a>
-              <a class="dropdown-item" href="/#">EAS</a>
+              <a class="dropdown-item" href="/counter">EAS Kode FF</a>
             </div>
           </li>
         </ul>

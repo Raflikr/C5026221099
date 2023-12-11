@@ -128,5 +128,5 @@ Route::get('/kopi/hapus/{id}','App\Http\Controllers\KopiController@hapus');
 Route::get('/kopi/cari','App\Http\Controllers\KopiController@cari');
 Route::get('/kopi/viewkopi/{id}', 'App\Http\Controllers\KopiController@viewkopi');
 
-
-
+//route CRUD EAS Kode FF
+Route::get('/counter','App\Http\Controllers\CounterController@indexcounter');
